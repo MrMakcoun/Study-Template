@@ -13,10 +13,12 @@ namespace Study.LabWork1.Features.Task1
         /// Числитель дроби (только для чтения)
         /// </summary>
         public int numerator { get; }
+
         /// <summary>
         /// Знаменатель дроби (только для чтения)
         /// </summary>
         public int denominator { get; }
+
         /// <summary>
         /// Конструктор класса Rational
         /// </summary>
